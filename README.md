@@ -1,4 +1,4 @@
-# madhavtejaswi_project5_
+# madhav_project5_
 team member 1 (S.Tejaswi Chowdary) responsibilities
 
 1.Writing and executing the code which will cover the UI Requirment 1&2.
